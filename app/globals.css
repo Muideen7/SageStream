@@ -6,25 +6,30 @@
 
 @theme {
   --color-bg-base: #080808;
-  --color-bg-surface: #0C0C0C;
-  --color-bg-raised: #141414;
+  --color-bg-surface: #242424;
+  --color-bg-raised: #3B3B3B;
   --color-bg-overlay: rgba(8, 8, 8, 0.85);
 
-  --color-orange: #E8611A;
-  --color-orange-bright: #FF8C00;
-  --color-orange-dim: rgba(232, 97, 26, 0.15);
+  --color-orange: #E87D4A;
+  --color-orange-shadow: #A8532F;
+  --color-orange-bright: #FF9F7A;
+  --color-orange-dim: rgba(232, 125, 74, 0.15);
 
-  --color-gold: #FFB800;
-  --color-gold-bright: #FFD700;
+  --color-gold: #EFE05A;
+  --color-gold-shadow: #C28A32;
+  --color-gold-bright: #FFF38C;
 
-  --color-cream: #FFF3DC;
-  --color-cream-secondary: rgba(255, 243, 220, 0.65);
-  --color-cream-muted: rgba(255, 243, 220, 0.40);
+  --color-blue: #5A82A0;
+  --color-blue-deep: #314960;
+
+  --color-cream: #F2C8BD;
+  --color-cream-secondary: rgba(242, 200, 189, 0.65);
+  --color-cream-muted: rgba(242, 200, 189, 0.40);
 
   --color-crimson-bright: #FF0000;
 
   --color-border: rgba(255, 255, 255, 0.08);
-  --color-border-gold: rgba(255, 184, 0, 0.2);
+  --color-border-gold: rgba(239, 224, 90, 0.2);
   --color-border-hover: rgba(255, 255, 255, 0.15);
 
   --radius-xl: 1rem;
